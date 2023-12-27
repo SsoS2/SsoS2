@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcom%20to%20Soeun's%20GitHub🏡&&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=70&height=250" width=94%/>
-
 <div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcom%20to%20Soeun's%20GitHub🏡&&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=70&height=250" width=94%/>
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsoS2&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />  
@@ -44,5 +43,5 @@
         <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
     </a>
 </div><br>
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&animation=twinkling&height=100" width=94%/>
+</div>
