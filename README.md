@@ -42,6 +42,9 @@
     <a href="https://blog.naver.com/wndnjs9326">
         <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
     </a>
+    <a href="https://soeun-k.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-FF5E00?style=flat&logo=Tistory&logoColor=white"/>
+    </a>
 </div><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&animation=twinkling&height=100" width=94%/>
 </div>
